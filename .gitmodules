@@ -1,0 +1,9 @@
+[submodule "projeto-es-dentin-web"]
+	path = projeto-es-dentin-web
+	url = https://github.com/jorgelcff/projeto-es-dentin-web
+[submodule "projeto-es-dentin-api"]
+	path = projeto-es-dentin-api
+	url = https://github.com/jorgelcff/projeto-es-dentin-api
+[submodule "projeto-es-dentin-front"]
+	path = projeto-es-dentin-front
+	url = https://github.com/jorgelcff/projeto-es-dentin-front
