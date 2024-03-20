@@ -20,6 +20,8 @@ Tendo em foco um desenvolvimento ágil para a execução do projeto, escolhemos 
 
 Baseado no SCRUM fazemos dois encontros semanais para alinhamento de ideias, planejamento sprint
 
+### [Artefatos e documentação](https://drive.google.com/drive/folders/1tfTOpqMVGPO1zpYvHwxKMR1jd7CMhkZ-?usp=sharing) 
+
 ## 🤝 Autores
 
 Conheça quem faz parte do nosso time
